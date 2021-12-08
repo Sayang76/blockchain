@@ -1,0 +1,1254 @@
+{
+   "etag": "\"MjAyMS0xMi0wN1QxMjoyMDowMC4wMjZa\"",
+   "items": [
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODc5NjAwMDI2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4516335240716213807",
+         "kind": "blogger#post",
+         "published": "2021-12-07T04:20:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4516335240716213807/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4516335240716213807",
+         "title": "Linked list",
+         "updated": "2021-12-07T04:20:00-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/linked-list.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODc5NDkzNDM5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5334401654142416793",
+         "kind": "blogger#post",
+         "published": "2021-12-07T04:18:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/5334401654142416793/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/5334401654142416793",
+         "title": "Binary search tree",
+         "updated": "2021-12-07T04:18:13-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/binary-search-tree.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODc5MzkyOTYwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4676661606084156142",
+         "kind": "blogger#post",
+         "published": "2021-12-07T04:16:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4676661606084156142/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4676661606084156142",
+         "title": "Hash table",
+         "updated": "2021-12-07T04:16:32-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/hash-table.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODUwNTYyNzAzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6948275444694497680",
+         "kind": "blogger#post",
+         "published": "2021-12-06T20:16:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6948275444694497680/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6948275444694497680",
+         "title": "Graph (discrete mathematics)",
+         "updated": "2021-12-06T20:16:02-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/graph-discrete-mathematics.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODUwNDM4OTg5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "46163694245982355",
+         "kind": "blogger#post",
+         "published": "2021-12-06T20:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/46163694245982355/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/46163694245982355",
+         "title": "Directed acyclic graph",
+         "updated": "2021-12-06T20:13:58-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/directed-acyclic-graph.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODUwMzI3MzY4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6525159810469755288",
+         "kind": "blogger#post",
+         "published": "2021-12-06T20:12:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6525159810469755288/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6525159810469755288",
+         "title": "Public-key cryptography",
+         "updated": "2021-12-06T20:12:07-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/public-key-cryptography.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODUwMjMxNzM2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8105166699103712314",
+         "kind": "blogger#post",
+         "published": "2021-12-06T20:10:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/8105166699103712314/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/8105166699103712314",
+         "title": "Cryptographic hash function",
+         "updated": "2021-12-06T20:10:31-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/cryptographic-hash-function.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODUwMTI5NDcyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "770895394541185981",
+         "kind": "blogger#post",
+         "published": "2021-12-06T20:08:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/770895394541185981/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/770895394541185981",
+         "title": "Commitment scheme",
+         "updated": "2021-12-06T20:08:49-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/commitment-scheme.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ3NjAwNjg4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3184344426925066731",
+         "kind": "blogger#post",
+         "published": "2021-12-06T19:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3184344426925066731/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3184344426925066731",
+         "title": "Merkle tree",
+         "updated": "2021-12-06T19:26:40-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/merkle-tree.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ2OTQwOTU1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2348550069003013887",
+         "kind": "blogger#post",
+         "published": "2021-12-06T19:15:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/2348550069003013887/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/2348550069003013887",
+         "title": "Consistency model",
+         "updated": "2021-12-06T19:15:40-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/consistency-model.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ2Nzk3OTA0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2605265064705071873",
+         "kind": "blogger#post",
+         "published": "2021-12-06T19:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/2605265064705071873/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/2605265064705071873",
+         "title": "Consensus (computer science)",
+         "updated": "2021-12-06T19:13:17-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/consensus-computer-science.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ2Njc2NzUxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6163699189141665365",
+         "kind": "blogger#post",
+         "published": "2021-12-06T19:11:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6163699189141665365/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6163699189141665365",
+         "title": "Linearizability",
+         "updated": "2021-12-06T19:11:16-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/linearizability.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ2NTczMTUwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3073528459173807826",
+         "kind": "blogger#post",
+         "published": "2021-12-06T19:09:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3073528459173807826/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3073528459173807826",
+         "title": "Eventual consistency",
+         "updated": "2021-12-06T19:09:33-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/eventual-consistency.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ2NDQ4MjQwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7065733897886384554",
+         "kind": "blogger#post",
+         "published": "2021-12-06T19:07:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/7065733897886384554/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/7065733897886384554",
+         "title": "Fault tolerance",
+         "updated": "2021-12-06T19:07:28-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/fault-tolerance.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ2MzEzMDg4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2955920316339503929",
+         "kind": "blogger#post",
+         "published": "2021-12-06T19:05:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/2955920316339503929/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/2955920316339503929",
+         "title": "Paxos (computer science)",
+         "updated": "2021-12-06T19:05:13-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/paxos-computer-science.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ2MTUyODc2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3542363791775496350",
+         "kind": "blogger#post",
+         "published": "2021-12-06T19:02:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3542363791775496350/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3542363791775496350",
+         "title": "Raft (computer science)",
+         "updated": "2021-12-06T19:02:32-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/raft-computer-science.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ2MDA3MDU2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8442550345863937934",
+         "kind": "blogger#post",
+         "published": "2021-12-06T19:00:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/8442550345863937934/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/8442550345863937934",
+         "title": "Byzantine fault tolerance",
+         "updated": "2021-12-06T19:00:07-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/byzantine-fault-tolerance.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ1ODUwMzE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5615095183088032402",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:57:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/5615095183088032402/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/5615095183088032402",
+         "title": "Distributed database",
+         "updated": "2021-12-06T18:57:30-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/distributed-database.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ1NzQwMTE4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6256110271520875995",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:55:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6256110271520875995/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6256110271520875995",
+         "title": "Shard (database architecture)",
+         "updated": "2021-12-06T18:55:40-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/shard-database-architecture.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ1NjE3MDUwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6939179958278377120",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:53:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6939179958278377120/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6939179958278377120",
+         "title": "Consistent hashing",
+         "updated": "2021-12-06T18:53:37-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/consistent-hashing.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ1NTA1NDY4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8754996849576446943",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/8754996849576446943/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/8754996849576446943",
+         "title": "Replication (computing)",
+         "updated": "2021-12-06T18:51:45-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/replication-computing.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ1MzgzOTc3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7313377285389763415",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:49:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/7313377285389763415/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/7313377285389763415",
+         "title": "Quorum (distributed computing)",
+         "updated": "2021-12-06T18:49:43-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/quorum-distributed-computing.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ1MzEyMTA2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6863638968826535087",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:48:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6863638968826535087/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6863638968826535087",
+         "title": "Distributed hash table",
+         "updated": "2021-12-06T18:48:32-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/distributed-hash-table.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ1MTk4NjY0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4595342417816000115",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:46:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4595342417816000115/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4595342417816000115",
+         "title": "Chord (peer-to-peer)",
+         "updated": "2021-12-06T18:46:38-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/chord-peer-to-peer.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ1MDUxNDQxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1467076461960155426",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:44:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1467076461960155426/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1467076461960155426",
+         "title": "Kademlia",
+         "updated": "2021-12-06T18:44:11-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/kademlia.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ0OTQwODM2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1291284725956336845",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:42:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1291284725956336845/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1291284725956336845",
+         "title": "Computer network",
+         "updated": "2021-12-06T18:42:20-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/computer-network.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ0NjMwODA5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2172530521351209155",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:37:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/2172530521351209155/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/2172530521351209155",
+         "title": "Network packet",
+         "updated": "2021-12-06T18:37:10-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/network-packet.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ0NTUxMjQxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "424261984448436884",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:35:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/424261984448436884/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/424261984448436884",
+         "title": "Routing",
+         "updated": "2021-12-06T18:35:51-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/routing.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ0NDU5NDAzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3133281814102330992",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:34:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3133281814102330992/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3133281814102330992",
+         "title": "Gossip protocol",
+         "updated": "2021-12-06T18:34:19-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/gossip-protocol.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ0Mzc4NzcwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5637802680660585985",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:32:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/5637802680660585985/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/5637802680660585985",
+         "title": "Flooding (computer networking)",
+         "updated": "2021-12-06T18:32:58-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/flooding-computer-networking.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ0MzA1MTkyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3928894090193922693",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3928894090193922693/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3928894090193922693",
+         "title": "Peer-to-peer",
+         "updated": "2021-12-06T18:31:45-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/peer-to-peer.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ0MjE5MjY1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "438808272428820317",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:30:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/438808272428820317/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/438808272428820317",
+         "title": "BitTorrent",
+         "updated": "2021-12-06T18:30:19-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/bittorrent.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQ0MDk2MjcxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4336688713387487113",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4336688713387487113/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4336688713387487113",
+         "title": "Tor (anonymity network)",
+         "updated": "2021-12-06T18:28:16-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/tor-anonymity-network.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODQzNzI3OTg1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3291969150940388432",
+         "kind": "blogger#post",
+         "published": "2021-12-06T18:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3291969150940388432/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/3291969150940388432",
+         "title": "Game theory",
+         "updated": "2021-12-06T18:22:07-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/game-theory.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM4NTM2NzkzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6652109207735997389",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:55:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6652109207735997389/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6652109207735997389",
+         "title": "Nash equilibrium",
+         "updated": "2021-12-06T16:55:36-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/nash-equilibrium.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM4Mzk3MTA5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1315712283764147015",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:53:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1315712283764147015/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1315712283764147015",
+         "title": "Focal point (game theory)",
+         "updated": "2021-12-06T16:53:17-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/focal-point-game-theory.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM4Mjk4MTU1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1888664162331843092",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1888664162331843092/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1888664162331843092",
+         "title": "Macroeconomics",
+         "updated": "2021-12-06T16:51:38-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/macroeconomics.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM4MDUxOTI2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8076250021707070567",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/8076250021707070567/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/8076250021707070567",
+         "title": "Monetary policy",
+         "updated": "2021-12-06T16:47:31-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/monetary-policy.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM3ODg2MjEwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1888207065065554661",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:44:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1888207065065554661/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1888207065065554661",
+         "title": "Inflation",
+         "updated": "2021-12-06T16:44:46-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/inflation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM3NzUyMjE1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1102974192443357403",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:42:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1102974192443357403/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/1102974192443357403",
+         "title": "Deflation",
+         "updated": "2021-12-06T16:42:32-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/deflation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM3NjQ4NDE3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2511156131624855707",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/2511156131624855707/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/2511156131624855707",
+         "title": "Velocity of money",
+         "updated": "2021-12-06T16:40:48-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/velocity-of-money.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM3NTU5NDkwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "604080230232827022",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/604080230232827022/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/604080230232827022",
+         "title": "Microeconomics",
+         "updated": "2021-12-06T16:39:19-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/microeconomics.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM3NDY4Njg5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6635304785283650168",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:37:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6635304785283650168/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6635304785283650168",
+         "title": "Supply and demand",
+         "updated": "2021-12-06T16:37:48-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/supply-and-demand.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM3MzYxNjk1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6628672517972600330",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:36:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6628672517972600330/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/6628672517972600330",
+         "title": "Opportunity cost",
+         "updated": "2021-12-06T16:36:01-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/opportunity-cost.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM3MjczMDU0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4423266323436889331",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:34:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4423266323436889331/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4423266323436889331",
+         "title": "Auction theory",
+         "updated": "2021-12-06T16:34:33-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/auction-theory.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM3MTA2ODc4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4150462468806432557",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4150462468806432557/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4150462468806432557",
+         "title": "Bitcoin scalability problem",
+         "updated": "2021-12-06T16:31:46-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/bitcoin-scalability-problem.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM2OTg2MTM5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4089181724896807296",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4089181724896807296/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4089181724896807296",
+         "title": "SegWit",
+         "updated": "2021-12-06T16:29:46-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/segwit.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "3359209570507224955"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4ODM2ODUyNzAwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4106582039180085518",
+         "kind": "blogger#post",
+         "published": "2021-12-06T16:27:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4106582039180085518/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3359209570507224955/posts/4106582039180085518",
+         "title": "Decentralized autonomous organization",
+         "updated": "2021-12-06T16:27:32-08:00",
+         "url": "http://blockchaindevwiki.blogspot.com/2021/12/decentralized-autonomous-organization.html"
+      }
+   ],
+   "kind": "blogger#postList"
+}
